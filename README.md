@@ -2,7 +2,7 @@
 
 
 
-## Training with execution of unit tests using vitest and TDD
+## Training with execution of unit tests using framework Vitest and method TDD
 
 
 
