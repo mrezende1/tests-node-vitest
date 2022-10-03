@@ -1,8 +1,8 @@
-#  Welcome to the E2E-tests wiki!
+#  Welcome to the Tests-node-vitest wiki!
 
 
 
-## Training with execution of unit tests using vitest
+## Training with execution of unit tests using vitest and TDD
 
 
 
@@ -12,4 +12,3 @@
 ###  
 ### 
 Techs -> JS, NODE, VITEST, TS
-
