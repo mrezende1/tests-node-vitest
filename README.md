@@ -11,4 +11,4 @@
 
 ###  
 ### 
-Techs -> JS, NODE, VITEST, TS
+Techs -> JAVASCRIPT, NODE, VITEST, TYPESCRIPT
